@@ -26,9 +26,12 @@ Alternatively fonts are available at [Webtype](http://www.webtype.com/)
 - Per domain
 - Amount of visitors
 
-## [Coppers and Brasses](http://coppersandbrasses.com/faq/)
+## [Coppers and Brasses](http://coppersandbrasses.com/eula/)
 
-Currently no web licences available.
+- Some styles available as web fonts (other styles available on request)
+- Self hosting
+- One time fee
+- Page view based
 
 ## [Darden Studio](http://www.dardenstudio.com/faq#question-1-1)
 
